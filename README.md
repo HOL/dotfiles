@@ -1,10 +1,8 @@
-# Dickson Labs config files
+# Hospitality Online config files
 
-copied from Ryan Bates
+copied from Dickson Labs copied from Ryan Bates
 
 ## Installation
-
-Run:
 
     rake
 
@@ -13,7 +11,6 @@ Run:
 ### projects directory
 
 ``p <dir>`` will cd to your Projects directory
-
 
 ### tab completion(s)
 
@@ -30,10 +27,10 @@ There are a few key bindings set. Many of these require option to be
 set as the meta key. Option-left/right arrow will move cursor by word,
 and control-left/right will move to beginning and end of line.
 Control-option-N will open a new tab with the current directory under
-Mac OS X Terminal.
+macOS Terminal.
 
 If there are some shell configuration settings which you want secure
-or specific to one system, place it into a ~/.localrc file. This will
+or specific to one system, place it into a `~/.localrc` file. This will
 be loaded automatically if it exists.
 
 ### git autocompletion
